@@ -1,1 +1,0 @@
-java Exercise2_1 < Exercise2_1.input > out
